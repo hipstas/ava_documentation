@@ -2,9 +2,11 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+# project = 'Lumache'
+
+project = 'AVAnnotate'
+copyright = '2024, High Performance Sound Technologies for Access and Scholarship'
+author = 'High Performance Sound Technologies for Access and Scholarship'
 
 release = '0.1'
 version = '0.1.0'
