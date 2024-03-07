@@ -1,13 +1,9 @@
 Welcome to AV-Annotate documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**(AVAnnotate)[https://av-annotate.org/]** is a free and open source workflow and application for sharing annotations of audio and video artifacts and making digital exhibits and editions with AV materials.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Leveraging IIIF and GitHub for sharing curated annotations of audiovisual materials held at libraries, archives, and museums, AVAnnotate allows users to combine metadata for online audio and video assets with user-generated annotations and contextual essays to create simple web-based editions and exhibits.
 
 .. note::
 
