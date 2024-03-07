@@ -1,9 +1,9 @@
-Usage
+Teaching
 =====
 
-.. _installation:
+.. _Teaching:
 
-Installation
+Teaching
 ------------
 
 To use Lumache, first install it using pip:
