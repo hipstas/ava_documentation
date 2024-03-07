@@ -5,7 +5,7 @@ build:
   tools:
     python: "3.10"
 
-python3:
+python:
   install:
     - requirements: docs/requirements.txt
     # Install our python package before building the docs
