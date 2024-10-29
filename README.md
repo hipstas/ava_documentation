@@ -1,174 +1,35 @@
-# just-the-docs-template
+# AVAnnotate
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+We’re excited to announce another round of funding for AudiAnnotate under a new title “AVAnnotate” with a new website: https://av-annotate.org/. The basic (free and open source) infrastructure and goals are the same: to increase the use of archival audiovisual artifacts in research and scholarship.
 
-- uses the [Just the Docs] theme;
-- can be built and published on [GitHub Pages];
-- can be built and previewed locally, and published on other platforms.
+AVAnnotate is the second phase of the AudiAnnotate project, which was supported by a Mellon Foundation grant awarded in 2020. The AudiAnnotate project included the development of the free and open-source AudiAnnotate web application to easily produce freely available web projects. These projects—which resemble AV-centered “editions” or “exhibits”—are a series of web pages, hosted on GitHub, that feature a linked LAM audio or video recording that can be played in the context of user-generated commentary in time-stamped annotations alongside introductory material and an index of concepts and terms, all of which provide for searching, browsing, and organizing annotations across recordings. The AudiAnnotate team has also produced guidelines, workshops, and proof-of-concept projects with LAM partners to serve as much-needed examples for working with AV artifacts. AVAnnotate builds on the work of AudiAnnotate by developing the application to generate projects with a more interactive and full-featured environment for editing and annotating, with better support for video, and with more reusable software components. Just as importantly, AVAnnotate will elevate awareness and promote sustainability around issues surrounding AV access in libraries and archives; scholarly, pedagogical, and public use of AV and the IIIF standard; and the social and political contexts surrounding AV access and engagement in LAM collections.
 
-More specifically, the created site:
+## AVAnnotate Team:
+Tanya Clement, Associate Professor, UT Austin
+Ben Brumfield, Brumfield Labs
+Sara Brumfield, Brumfield Labs
+Shawn Averkamp, AVP
+Nick Laiacona, Performant Software
+Anindita Basu Sempere, Performant Software
+Sam Turner, Graduate Research Assistant, UT Austin
+Alyssa Frick-Jenkins, Graduate Research Assistant, UT Austin
+Jack Riordan, Graduate Research Assistant, UT Austin
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
+## Project Partners:
+Doug Boyd, Director. Louie B. Nunn Center for Oral History Special Collections 
+Jason Camlot, Professor and University Research Chair in Literature and Sound Studies, Concordia University, Montreal; PI, SpokenWeb Research Program 
+Christina Davis, Curator of the Woodberry Poetry Room, Houghton Library, Harvard University
+Meghan Ferriter, Senior Innovation Specialist, Library of Congress Digital Innovation Lab (LC Labs) 
+Steven Holloway, Director of Metadata Strategies, James Madison University 
+Jim Kuhn, Associate Director, Harry Ransom Center, UT Austin 
+Stephen Naron, Director of the Fortunoff Video Archive for Holocaust Testimonies, Yale Libraries
 
-To get started with creating a site, simply:
+## Advisory Board
+Aaron Choate, Director of Digital Strategies, University of Texas at Austin Libraries 
+Jason Camlot, Professor and University Research Chair in Literature and Sound Studies, Concordia University, Montreal; PI, SpokenWeb Research Program
+Jon Dunn, Assistant Dean for Library Technologies at Indiana University, Co-Chair, IIIF A/V Technical Specification Group; Director of Avalon Media System 
+Jennifer Guiliano, University of Indiana University – Purdue University Indianapolis and Director, Humanities Intensive Learning and Training – HILT 
+Virginia Millington, Archivist, StoryCorps
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](#hosting-your-docs-from-an-existing-project-repo).
-
-After completing the creation of your new site on GitHub, update it as needed:
-
-## Replace the content of the template pages
-
-Update the following files to your own content:
-
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
-
-## Changing the version of the theme and/or Jekyll
-
-Simply edit the relevant line(s) in the `Gemfile`.
-
-## Adding a plugin
-
-The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
-
-To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. For example, to add [`jekyll-default-layout`]:
-
-- Add the following to your site's `Gemfile`:
-
-  ```ruby
-  gem "jekyll-default-layout"
-  ```
-
-- And add the following to your site's `_config.yml`:
-
-  ```yaml
-  plugins:
-    - jekyll-default-layout
-  ```
-
-Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
-
-## Publishing your site on GitHub Pages
-
-1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
-
-    ```yaml
-    title: YOUR TITLE
-    description: YOUR DESCRIPTION
-    theme: just-the-docs
-
-    url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
-
-    aux_links: # remove if you don't want this link to appear on your pages
-      Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
-    ```
-
-2.  Push your updated `_config.yml` to your site on GitHub.
-
-3.  In your newly created repo on GitHub:
-    - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
-    - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
-
-## Building and previewing your site locally
-
-Assuming [Jekyll] and [Bundler] are installed on your computer:
-
-1.  Change your working directory to the root directory of your site.
-
-2.  Run `bundle install`.
-
-3.  Run `bundle exec jekyll serve` to build your site and preview it at `localhost:4000`.
-
-    The built site is stored in the directory `_site`.
-
-## Publishing your built site on a different platform
-
-Just upload all the files in the directory `_site`.
-
-## Customization
-
-You're free to customize sites that you create with this template, however you like!
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-## Hosting your docs from an existing project repo
-
-You might want to maintain your docs in an existing project repo. Instead of creating a new repo using the [just-the-docs template](https://github.com/just-the-docs/just-the-docs-template), you can copy the template files into your existing repo and configure the template's Github Actions workflow to build from a `docs` directory. You can clone the template to your local machine or download the `.zip` file to access the files.
-
-### Copy the template files
-
-1.  Create a `.github/workflows` directory at your project root if your repo doesn't already have one. Copy the `pages.yml` file into this directory. GitHub Actions searches this directory for workflow files.
-
-2.  Create a `docs` directory at your project root and copy all remaining template files into this directory.
-
-### Modify the GitHub Actions workflow
-
-The GitHub Actions workflow that builds and deploys your site to Github Pages is defined by the `pages.yml` file. You'll need to edit this file to that so that your build and deploy steps look to your `docs` directory, rather than the project root.
-
-1.  Set the default `working-directory` param for the build job.
-
-    ```yaml
-    build:
-      runs-on: ubuntu-latest
-      defaults:
-        run:
-          working-directory: docs
-    ```
-
-2.  Set the `working-directory` param for the Setup Ruby step.
-
-    ```yaml
-    - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.1'
-          bundler-cache: true
-          cache-version: 0
-          working-directory: '${{ github.workspace }}/docs'
-    ```
-
-3.  Set the path param for the Upload artifact step:
-
-    ```yaml
-    - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: "docs/_site/"
-    ```
-
-4.  Modify the trigger so that only changes within the `docs` directory start the workflow. Otherwise, every change to your project (even those that don't affect the docs) would trigger a new site build and deploy.
-
-    ```yaml
-    on:
-      push:
-        branches:
-          - "main"
-        paths:
-          - "docs/**"
-    ```
-
-## Licensing and Attribution
-
-This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template"). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
-
-The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Jekyll]: https://jekyllrb.com
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[Bundler]: https://bundler.io
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
-[`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
-[`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
-[MIT License]: https://en.wikipedia.org/wiki/MIT_License
-[starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
-[actions/starter-workflows]: https://github.com/actions/starter-workflows/blob/main/LICENSE
+## Support: 
+AWE has been generously funded by the Andrew W. Mellon Foundation
