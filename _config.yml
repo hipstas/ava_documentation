@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: AVAnnotate Documentation
+description: This repository is home to documentation and tutorials for using AVAnnotate. 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://github.com/saamturner/ava_documentation
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
