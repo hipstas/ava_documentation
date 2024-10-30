@@ -5,8 +5,6 @@ nav_order: 2
 ---
 # AVAnnotate Frequently Asked Questions 
 
-Testing testing
-
 ## What do I need to use AVAnnotate?
 To use AVAnnotate, you will need: a GitHub account; a direct link to the .mp3 or .mp4 file of your audio or video or a IIIF manifest for the recording; and spreadsheets containing information about the project’s Events, Tags, and Annotations.
 
