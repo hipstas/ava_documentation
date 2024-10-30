@@ -1,5 +1,6 @@
 ---
 title: Frequently Asked Questions
+layout: home
 nav_order: 2
 ---
 # AVAnnotate Frequently Asked Questions 
