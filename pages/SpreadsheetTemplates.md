@@ -18,12 +18,12 @@ If an event has been recorded over multiple AV files (and you’re intending to 
 
 **Header**
 
-Column A: Event Label (“Interview 1”)
-Column B: Event Item Type (“Audio” or “Video”) 
-Column C: AV File Label (name for the file; create a name even if there is not an AV URL)
-Column D: AV File URL (optional)
-Column E: Event Citation (optional)
-Column F: Event Description (optional) 
+Column A: Event Label (“Interview 1”) <br>
+Column B: Event Item Type (“Audio” or “Video”) <br>
+Column C: AV File Label (name for the file; create a name even if there is not an AV URL) <br>
+Column D: AV File URL (optional) <br>
+Column E: Event Citation (optional) <br>
+Column F: Event Description (optional) <br>
 ---
 # [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true)
 This template contains tags and tag categories used in a project. Tags are labels used in the interface to index, organize, and discover topics in the annotations. Categories can be used to organize the tags in groups. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized via the category “speaker.” This would allow end users to easily find all annotations that relate to a given speaker or all speakers. 
