@@ -60,7 +60,7 @@ Column D: Tags are pipe | separated; if a tag belongs to multiple categories, in
 Column E: AV Label (optional if there is only one AV recording; mandatory if there is more than one AV recording) 
 
 **Note:** 
-The “pipe” can be found on an QWERTY keyboard to the right of the letter “P.”
+The “pipe” can be found on QWERTY keyboards to the right of the letter “P.”
 
 
 
