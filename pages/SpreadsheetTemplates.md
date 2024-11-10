@@ -17,7 +17,6 @@ If an event is associated with one AV file (audio or video), it will occupy one 
 If an event has been recorded over multiple AV files (and you’re intending to include them in your AVAnnotate project), the event should appear in multiple lines of the spreadsheet. 
 
 **Header**
-
 Column A: Event Label (“Interview 1”) <br>
 Column B: Event Item Type (“Audio” or “Video”) <br>
 Column C: AV File Label (name for the file; create a name even if there is not an AV URL) <br>
