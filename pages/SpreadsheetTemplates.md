@@ -19,6 +19,7 @@ If an event is associated with one AV file (audio or video), it will occupy one 
 If an event has been recorded over multiple AV files (and you’re intending to include them in your AVAnnotate project), the event should appear in multiple lines of the spreadsheet. 
 
 **Header**
+
 Column A: Event Label (“Interview 1”)
 Column B: Event Item Type (“Audio” or “Video”) 
 Column C: AV File Label (name for the file; create a name even if there is not an AV URL)
@@ -37,6 +38,7 @@ A tag can belong to multiple categories. For example, the tag “Zora Neale Hurs
 A single tag can contain multiple words and punctuation, but should not use colons or pipes (e.g., “Allende Gossens, Salvador, 1908-1973”).
 
 **Header**
+
 Column A: Tag (one tag per cell) 
 Column B: Category 
 
@@ -50,6 +52,7 @@ Annotations are linked to an event as part of the upload process.
 Annotations may overlap in time and will appear in sequence in the interface according to the earliest start time.
 
 **Header**
+
 Column A: Start Time is an annotation’s start time in minutes and seconds.
 Column B: End Time is an annotation’s end time, may be the same as start time for a point in time.
 Column C: Annotation (e.g., transcription, notes on environmental sounds, formal features, etc.)
