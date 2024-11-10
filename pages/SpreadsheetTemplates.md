@@ -23,6 +23,7 @@ Column C: AV File Label (name for the file; create a name even if there is not a
 Column D: AV File URL (optional) <br>
 Column E: Event Citation (optional) <br>
 Column F: Event Description (optional) <br>
+
 ---
 # [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true)
 This template contains tags and tag categories used in a project. Tags are labels used in the interface to index, organize, and discover topics in the annotations. Categories can be used to organize the tags in groups. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized via the category “speaker.” This would allow end users to easily find all annotations that relate to a given speaker or all speakers. 
@@ -35,6 +36,7 @@ A single tag can contain multiple words and punctuation, but should not use colo
 **Header** <br>
 Column A: Tag (one tag per cell) <br>
 Column B: Category <br>
+
 ---
 # [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
 This template includes project annotations. Annotations correspond to a given start and end point in the audio or video artifact, and contain information about the media. The nature of this information is entirely up to the user. For example, annotations might include a transcript; captions; information about formal features of the media, like shot sequence, volume, or lighting; historical or cultural context; environmental noises such as fans or car horns; or conceptual notes or themes. 
