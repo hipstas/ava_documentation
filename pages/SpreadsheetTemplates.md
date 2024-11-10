@@ -3,10 +3,12 @@ title: Spreadsheet Templates
 layout: home
 nav_order: 5
 ---
-# Log into [https://avannotate.netlify.app/](https://avannotate.netlify.app) with your GitHub credentials.
-For bulk uploading projects, please use the following templates. The Event and Tags (optional) templates represent the whole project. Each AV “event” must be listed on the Event spreadsheet. Each tag used in the project is listed on the Tags spreadsheet. Once the project is built, an Annotations spreadsheet is uploaded for each event. 
 
+# Log into the [AVAnnotate application](https://avannotate.netlify.app) with your GitHub credentials
+For bulk uploading projects, please use the following templates. The Event and Tags (optional) templates represent the whole project. Each AV “event” must be listed on the Event spreadsheet. Each tag used in the project is listed on the Tags spreadsheet. Once the project is built, an Annotations spreadsheet is uploaded for each event. 
 ## PLEASE NOTE: For a successful upload, ALL CELLS in the columns used should be filled out in the following spreadsheets. 
+
+---
 
 # [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
 This template organizes the events in a project and associates the AV files with that event. An “event” might be an interview, an oral history, a performance, a speech, a reading, or a conference that takes place over multiple days. (This list is not exhaustive, and the audiovisual material you’re working with may or may not fall into one of these “event” categories.)   
@@ -24,6 +26,7 @@ Column D: AV File URL (optional)
 Column E: Event Citation (optional)
 Column F: Event Description (optional) 
 
+---
 
 # [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true)
 This template contains tags and tag categories used in a project. Tags are labels used in the interface to index, organize, and discover topics in the annotations. Categories can be used to organize the tags in groups. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized via the category “speaker.” This would allow end users to easily find all annotations that relate to a given speaker or all speakers. 
@@ -36,6 +39,8 @@ A single tag can contain multiple words and punctuation, but should not use colo
 **Header**
 Column A: Tag (one tag per cell) 
 Column B: Category 
+
+---
 
 # [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
 This template includes project annotations. Annotations correspond to a given start and end point in the audio or video artifact, and contain information about the media. The nature of this information is entirely up to the user. For example, annotations might include a transcript; captions; information about formal features of the media, like shot sequence, volume, or lighting; historical or cultural context; environmental noises such as fans or car horns; or conceptual notes or themes. 
