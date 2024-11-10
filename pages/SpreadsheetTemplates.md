@@ -35,7 +35,7 @@ A single tag can contain multiple words and punctuation, but should not use colo
 
 **Header**
 
-Column A: Tag (one tag per cell)
+Column A: Tag (one tag per cell) <br>
 Column B: Category 
 ---
 # [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
@@ -47,10 +47,10 @@ Annotations may overlap in time and will appear in sequence in the interface acc
 
 **Header**
 
-Column A: Start Time is an annotation’s start time in minutes and seconds.
-Column B: End Time is an annotation’s end time, may be the same as start time for a point in time.
-Column C: Annotation (e.g., transcription, notes on environmental sounds, formal features, etc.)
-Column D: Tags are pipe | separated; if a tag belongs to multiple categories, include the category like so: “category: tag | tag | tag | category: tag” (e.g., “People: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”). 
+Column A: Start Time is an annotation’s start time in minutes and seconds <br>
+Column B: End Time is an annotation’s end time, may be the same as start time for a point in time <br>
+Column C: Annotation (e.g., transcription, notes on environmental sounds, formal features, etc.) <br>
+Column D: Tags are pipe | separated; if a tag belongs to multiple categories, include the category like so: “category: tag | tag | tag | category: tag” (e.g., “People: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”) <br>
 Column E: AV Label (optional if there is only one AV recording; mandatory if there is more than one AV recording) 
 
 **Note:** 
