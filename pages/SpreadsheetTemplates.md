@@ -23,7 +23,9 @@ Column C: AV File Label (name for the file; create a name even if there is not a
 Column D: AV File URL (optional) <br>
 Column E: Event Citation (optional) <br>
 Column F: Event Description (optional) <br>
+
 ---
+
 # [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true)
 This template contains tags and tag categories used in a project. Tags are labels used in the interface to index, organize, and discover topics in the annotations. Categories can be used to organize the tags in groups. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized via the category “speaker.” This would allow end users to easily find all annotations that relate to a given speaker or all speakers. 
 Tags could also be used to organize concepts, themes, or features that appear across several recordings (e.g., “Shouting” as a tag and “Tone of Voice” as a category). Consistency with the spelling and capitalization of tags is imperative, as AVAnnotate will read each tag individually and cannot control for differences in case or spelling. 
