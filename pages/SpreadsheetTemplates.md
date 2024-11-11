@@ -13,15 +13,10 @@ For uploading projects in bulk, use the following templates. Project-level templ
 * Each row is an annotation for a timestamp on the event.
 For a successful upload, ALL CELLS in the columns used should be filled out. 
  
-## PLEASE NOTE: For a successful upload, ALL CELLS in the columns used should be filled out in the following spreadsheets. 
+PLEASE NOTE: For a successful upload, ALL CELLS in the columns used should be filled out in the following spreadsheets. 
 ---
 # [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
-This template organizes the events in a project and associates the AV files with that event. An “event” might be an interview, an oral history, a performance, a speech, a reading, or a conference that takes place over multiple days. (This list is not exhaustive, and the audiovisual material you’re working with may or may not fall into one of these “event” categories.)   
-Each row in the Event template corresponds to one recording, though events can span multiple rows (e.g., the event “Interview 2” may be found on Tapes 2 and 3, so “Interview 2” will appear in two separate rows in the template). 
-
-**Note:** 
-If an event is associated with one AV file (audio or video), it will occupy one line on the spreadsheet. 
-If an event has been recorded over multiple AV files (and you’re intending to include them in your AVAnnotate project), the event should appear in multiple lines of the spreadsheet. 
+This template organizes the events in a project and associates the AV files with that event. An “event” might be an interview, an oral history, a performance, a speech, a reading, or a conference that takes place over multiple days. (This list is not exhaustive, and the audiovisual material you’re working with may or may not fall into one of these “event” categories.) Each row in the Event template corresponds to one recording. If your event spans multiple recordings, additional recordings must be added to the event after upload.
 
 **Spreadsheet Header** <br>
 Column A: Event Label (“Interview 1”) <br>
