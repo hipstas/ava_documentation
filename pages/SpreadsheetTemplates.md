@@ -5,7 +5,14 @@ nav_order: 5
 ---
 
 # Log into the [AVAnnotate application](https://avannotate.netlify.app) with your GitHub credentials
-For bulk uploading projects, please use the following templates. The Event and Tags (optional) templates represent the whole project. Each AV “event” must be listed on the Event spreadsheet. Each tag used in the project is listed on the Tags spreadsheet. Once the project is built, an Annotations spreadsheet is uploaded for each event. 
+For uploading projects in bulk, use the following templates. Project-level templates should be uploaded first. AVAnnotate will take .CSV, .TSV, Excel, and .VTT files.
+1. Project Level: 
+* Event Spreadsheet: Each row is a unique “event” in the project.
+* Tags spreadsheet: Each row is a unique tag in the project. 
+2. Event Level: 
+* Each row is an annotation for a timestamp on the event.
+For a successful upload, ALL CELLS in the columns used should be filled out. 
+ 
 ## PLEASE NOTE: For a successful upload, ALL CELLS in the columns used should be filled out in the following spreadsheets. 
 ---
 # [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
