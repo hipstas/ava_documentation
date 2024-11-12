@@ -6,10 +6,10 @@ nav_order: 5
 
 # Log into the [AVAnnotate application](https://avannotate.netlify.app) with your GitHub credentials
 For uploading projects in bulk, use the following templates. Project-level templates should be uploaded first. AVAnnotate will take .CSV, .TSV, Excel, and .VTT files.
-1. Project Level: 
+**1. Project Level:**
 * Event Spreadsheet: Each row is a unique “event” in the project.
 * Tags spreadsheet: Each row is a unique tag in the project. 
-2. Event Level: 
+**2. Event Level:** 
 * Annotation spreadsheet: Each row is an annotation for a timestamp on the event.
  
 PLEASE NOTE: For a successful upload, ALL CELLS in the columns used should be filled out in the following spreadsheets. 
@@ -18,12 +18,12 @@ PLEASE NOTE: For a successful upload, ALL CELLS in the columns used should be fi
 This template organizes the events in a project and associates the AV files with that event. An “event” might be an interview, an oral history, a performance, a speech, a reading, or a conference that takes place over multiple days. (This list is not exhaustive, and the audiovisual material you’re working with may or may not fall into one of these “event” categories.) Each row in the Event template corresponds to one recording. If your event spans multiple recordings, additional recordings must be added to the event after upload.
 
 **Spreadsheet Header** <br>
-Column A: Event Label (“Interview 1”) <br>
-Column B: Event Item Type (“Audio” or “Video”) <br>
-Column C: AV File Label (name for the file; create a name even if there is not an AV URL) <br>
-Column D: AV File URL (optional) <br>
-Column E: Event Citation (optional) <br>
-Column F: Event Description (optional) <br>
+**Column A:** Event Label (“Interview 1”) <br>
+**Column B:** Event Item Type (“Audio” or “Video”) <br>
+**Column C:** AV File Label (name for the file; create a name even if there is not an AV URL) <br>
+**Column D:** AV File URL (optional) <br>
+**Column E:** Event Citation (optional) <br>
+**Column F:** Event Description (optional) <br>
 
 ---
 # [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true)
@@ -35,8 +35,8 @@ A tag can belong to multiple categories. For example, the tag “Zora Neale Hurs
 A single tag can contain multiple words and punctuation, but should not use colons or pipes (e.g., “Allende Gossens, Salvador, 1908-1973”).
 
 **Spreadsheet Header** <br>
-Column A: Tag (one tag per cell) <br>
-Column B: Category <br>
+**Column A:** Tag (one tag per cell) <br>
+**Column B:** Category <br>
 
 ---
 # [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
@@ -47,10 +47,10 @@ Annotations are linked to an event as part of the upload process.
 Annotations may overlap in time and will appear in sequence in the interface according to the earliest start time.
 
 **Spreadsheet Header** <br>
-Column A: Start Time marks the point in time in minutes and seconds that is the target of an annotation. <br>
-Column B: End Time may be the same as start time for a point in time or may correspond to the end of a range of time that is the target of the annotation. <br>
-Column C: This is the body of the annotation (e.g., transcription, notes on environmental sounds, formal features, etc.) <br>
-Column D: Tags are pipe | separated; if a tag is unique across the project, include just the tag; if a tag belongs to multiple categories, the category must also be included with a colon (e.g., “People: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”) <br>
+**Column A:** Start Time marks the point in time in minutes and seconds that is the target of an annotation. <br>
+**Column B:** End Time may be the same as start time for a point in time or may correspond to the end of a range of time that is the target of the annotation. <br>
+**Column C:** This is the body of the annotation (e.g., transcription, notes on environmental sounds, formal features, etc.) <br>
+**Column D:** Tags are pipe | separated; if a tag is unique across the project, include just the tag; if a tag belongs to multiple categories, the category must also be included with a colon (e.g., “People: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”) <br>
 
 **Note:** 
 The “pipe” can be found on QWERTY keyboards to the right of the letter “P.”
