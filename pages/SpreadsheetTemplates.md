@@ -13,8 +13,7 @@ For uploading projects in bulk, use the following templates. Project-level templ
   
 **2. Event Level:** 
 * Annotation spreadsheet: Each row is an annotation for a timestamp on the event.
- 
-PLEASE NOTE: For a successful upload, ALL CELLS in the columns used should be filled out in the following spreadsheets. 
+  
 ---
 # [Event Spreadsheet Template](https://docs.google.com/spreadsheets/d/1noYKA8DFaHkSLq-MXSPwCccY3YFeyR52/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
 This template organizes the events in a project and associates the AV files with that event. An “event” might be an interview, an oral history, a performance, a speech, a reading, or a conference that takes place over multiple days. (This list is not exhaustive, and the audiovisual material you’re working with may or may not fall into one of these “event” categories.) Each row in the Event template corresponds to one recording. If your event spans multiple recordings, additional recordings must be added to the event after upload.
