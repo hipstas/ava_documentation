@@ -10,8 +10,7 @@ For uploading projects in bulk, use the following templates. Project-level templ
 * Event Spreadsheet: Each row is a unique “event” in the project.
 * Tags spreadsheet: Each row is a unique tag in the project. 
 2. Event Level: 
-* Each row is an annotation for a timestamp on the event.
-For a successful upload, ALL CELLS in the columns used should be filled out. 
+* Annotation spreadsheet: Each row is an annotation for a timestamp on the event.
  
 PLEASE NOTE: For a successful upload, ALL CELLS in the columns used should be filled out in the following spreadsheets. 
 ---
@@ -28,8 +27,8 @@ Column F: Event Description (optional) <br>
 
 ---
 # [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true)
-This template contains tags and tag categories used in a project. Tags are labels used in the interface to index, organize, and discover topics in the annotations. Categories can be used to organize the tags in groups. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized via the category “speaker.” This would allow end users to easily find all annotations that relate to a given speaker or all speakers. 
-Tags could also be used to organize concepts, themes, or features that appear across several recordings (e.g., “Shouting” as a tag and “Tone of Voice” as a category). Consistency with the spelling and capitalization of tags is imperative, as AVAnnotate will read each tag individually and cannot control for differences in case or spelling. 
+This template contains tags and tag categories used in a project. Tags are labels used in the interface to index, organize, and discover topics in the annotations. Categories can be used to organize the tags in groups. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized under the category “speaker.” This would allow end users to easily find all annotations that relate to a given speaker or all speakers. 
+Tags can also be used to organize concepts, themes, or features that appear across several recordings (e.g., “Shouting” as a tag and “Tone of Voice” as a category). Consistency with the spelling and capitalization of tags is imperative, as AVAnnotate will read each tag individually and cannot control for differences in case or spelling. 
 
 **Note:** 
 A tag can belong to multiple categories. For example, the tag “Zora Neale Hurston” may be found in the categories “Speaker” and “Topic” (depending on the event context) or may not be categorized at all. 
@@ -48,11 +47,10 @@ Annotations are linked to an event as part of the upload process.
 Annotations may overlap in time and will appear in sequence in the interface according to the earliest start time.
 
 **Spreadsheet Header** <br>
-Column A: Start Time is an annotation’s start time in minutes and seconds <br>
-Column B: End Time is an annotation’s end time, may be the same as start time for a point in time <br>
-Column C: Annotation (e.g., transcription, notes on environmental sounds, formal features, etc.) <br>
-Column D: Tags are pipe | separated; if a tag belongs to multiple categories, include the category like so: “category: tag | tag | tag | category: tag” (e.g., “People: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”) <br>
-Column E: AV Label (optional if there is only one AV recording; mandatory if there is more than one AV recording) <br>
+Column A: Start Time marks the point in time in minutes and seconds that is the target of an annotation. <br>
+Column B: End Time may be the same as start time for a point in time or may correspond to the end of a range of time that is the target of the annotation. <br>
+Column C: This is the body of the annotation (e.g., transcription, notes on environmental sounds, formal features, etc.) <br>
+Column D: Tags are pipe | separated; if a tag is unique across the project, include just the tag; if a tag belongs to multiple categories, the category must also be included with a colon (e.g., “People: Allende Gossens, Salvador, 1908-1973 | Presidents: Allende Gossens, Salvador, 1908-1973 | Frei Montalva, Eduardo, 1911-1982 | Pinochet Ugarte, Augusto, 1915-2006”) <br>
 
 **Note:** 
 The “pipe” can be found on QWERTY keyboards to the right of the letter “P.”
