@@ -26,5 +26,5 @@ nav_order: 6
 **Mixcloud:** Play Mixcloud tracks as mentioned above.  <br>
 
 ## Notes: 
--Only the File Paths, HLS, and DASH formats will generate a valid IIIF manifest  <br>
--The player does not support Box, Dropbox, or Google Drive share links
+-Only the File Paths, HLS, and DASH formats will generate a valid IIIF manifest.  <br>
+-The player does not support Box, Dropbox, or Google Drive share links.
