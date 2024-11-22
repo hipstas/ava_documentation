@@ -68,8 +68,8 @@ Annotations may overlap in time and will appear in sequence in the interface acc
 **Note:** 
 The “pipe” can be found on QWERTY keyboards to the right of the letter “P.”
 
-[Sample Annotations Spreadsheets - Leslie Flint's Spiritualism example](https://drive.google.com/drive/folders/1CzTX-WOQbCxYW3YefjOs4bThszHDr-oU?usp=drive_link) <br> 
+[Sample Annotation Spreadsheets - Leslie Flint's Spiritualism example](https://drive.google.com/drive/folders/1CzTX-WOQbCxYW3YefjOs4bThszHDr-oU?usp=drive_link) <br> 
 This Google Drive folder contains the Annotation spreadsheets ("OscarWildeAnnotations" and "ArthurConanDoyleAnnotations") that correspond to two different audio events in an AVAnnotate project about Leslie Flint's direct voice mediumship. From this Drive folder, the project author can download the two Annotation spreadsheets as .csv, .tsv, or .xlsx before importing into the AVAnnotate application. 
 
-[Sample Tag Spreadsheet - Zora Neale Hurston example](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q) <br>
+[Sample Annotation Spreadsheet - Zora Neale Hurston example](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q) <br>
 This Box folder includes all of the spreadsheets, including the Annotation spreadsheets, used to create [this AVAnnotate project](https://tanyaclement.github.io/znh-1939/) about Zora Neale Hurston across several audio recordings. This project includes 3 annotation spreadsheets because the author annotated 3 different audio events. 
