@@ -9,9 +9,9 @@ For uploading projects in bulk, use the following templates. Project-level templ
 
 **1. Project Level:** Every AVAnnotate project will include one Event and one Tag spreadsheet. 
 * Event Spreadsheet: Each row in the event spreadsheet is a unique “event” in the project.
-* Tag spreadsheet: Each row in the tag spreadsheet is a unique tag in the project.
+* Tag Spreadsheet: Each row in the tag spreadsheet is a unique tag in the project.
   
-**2. Event Level:** Regardless of how many events a project includes, one annotation spreadsheet will correspond to one event spreadsheet, such that projects with multiple events require multiple annotation spreadsheets. 
+**2. Event Level:** Regardless of how many events a project includes, one Annotation spreadsheet will correspond to one Event spreadsheet, such that projects with multiple events require multiple annotation spreadsheets. 
 * Annotation Spreadsheet: Each row in an annotation spreadsheet is an single annotation for a timestamp on the event.
   
 ---
