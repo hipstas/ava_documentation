@@ -26,10 +26,10 @@ This template organizes the events in a project and associates the AV files with
 **Column E:** Event Citation (optional) <br>
 **Column F:** Event Description (optional) <br>
 
-[Sample Event Spreadsheet - Leslie Flint's Spiritualism example](https://docs.google.com/spreadsheets/d/153aZGh905S1pK1a6eWW8GVCmEKDuMDJ9xsREEAuu7xE/edit?usp=sharing)
+[Sample Event Spreadsheet - Leslie Flint's Spiritualism example](https://docs.google.com/spreadsheets/d/153aZGh905S1pK1a6eWW8GVCmEKDuMDJ9xsREEAuu7xE/edit?usp=sharing) <br> 
 This Event spreadsheet reflects the two events included in an AVAnnotate project about Leslie Flint's direct voice mediumship. 
 
-[Sample Event Spreadsheet - Zora Neale Hurston example](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q)
+[Sample Event Spreadsheet - Zora Neale Hurston example](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q) <br>
 This Box folder includes all of the spreadsheets, including the Event spreadsheet (ZNH_events.csv), used to create [this AVAnnotate project](https://tanyaclement.github.io/znh-1939/) about Zora Neale Hurston across several audio recordings. This project includes three events (reflected in the Events spreadsheet) from the Florida Memory Project's archives about the Works Progress Administration. 
 
 ---
