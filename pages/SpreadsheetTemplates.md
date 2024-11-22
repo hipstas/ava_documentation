@@ -68,7 +68,7 @@ Annotations may overlap in time and will appear in sequence in the interface acc
 **Note:** 
 The “pipe” can be found on QWERTY keyboards to the right of the letter “P.”
 
-[Sample Annotations Spreadsheets - Leslie Flint's Spiritualism example](https://drive.google.com/drive/folders/1CzTX-WOQbCxYW3YefjOs4bThszHDr-oU?usp=drive_link)) <br> 
+[Sample Annotations Spreadsheets - Leslie Flint's Spiritualism example](https://drive.google.com/drive/folders/1CzTX-WOQbCxYW3YefjOs4bThszHDr-oU?usp=drive_link) <br> 
 This Google Drive folder contains the Annotation spreadsheets used to organize annotations and notes about two different audio events in an AVAnnotate project about Leslie Flint's direct voice mediumship. The spreadsheets ("OscarWildeAnnotations" and "ArthurConanDoyleAnnotations").
 
 [Sample Tag Spreadsheet - Zora Neale Hurston example](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q) <br>
