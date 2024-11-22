@@ -45,6 +45,12 @@ A single tag can contain multiple words and punctuation, but should not use colo
 **Column A:** Tag (one tag per cell) <br>
 **Column B:** Category <br>
 
+[Sample Tag Spreadsheet - Leslie Flint's Spiritualism example](https://docs.google.com/spreadsheets/d/1WxzBU2OxYxJ6tnC0Hyz3qbv1KrNP5NfIMZWKqqAWg1I/edit?usp=sharing) <br> 
+This Tag spreadsheet reflects the tags and categories used across multiple audio events within an AVAnnotate project about Leslie Flint's direct voice mediumship. 
+
+[Sample Tag Spreadsheet - Zora Neale Hurston example](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q) <br>
+This Box folder includes all of the spreadsheets, including the Tag spreadsheet (ZNH_tags.csv), used to create [this AVAnnotate project](https://tanyaclement.github.io/znh-1939/) about Zora Neale Hurston across several audio recordings. This project includes 26 unique tags that fall into 4 categories (reflected in the Tag spreadsheet). 
+
 ---
 # [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
 This template includes project annotations. Annotations correspond to a given start and end point in the audio or video artifact, and contain information about the media. The nature of this information is entirely up to the user. For example, annotations might include a transcript; captions; information about formal features of the media, like shot sequence, volume, or lighting; historical or cultural context; environmental noises such as fans or car horns; or conceptual notes or themes. 
@@ -61,3 +67,9 @@ Annotations may overlap in time and will appear in sequence in the interface acc
 
 **Note:** 
 The “pipe” can be found on QWERTY keyboards to the right of the letter “P.”
+
+[Sample Annotations Spreadsheets - Leslie Flint's Spiritualism example](https://drive.google.com/drive/folders/1CzTX-WOQbCxYW3YefjOs4bThszHDr-oU?usp=drive_link)) <br> 
+This Google Drive folder contains the Annotation spreadsheets used to organize annotations and notes about two different audio events in an AVAnnotate project about Leslie Flint's direct voice mediumship. The spreadsheets ("OscarWildeAnnotations" and "ArthurConanDoyleAnnotations") 
+
+[Sample Tag Spreadsheet - Zora Neale Hurston example](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q) <br>
+This Box folder includes all of the spreadsheets, including the Annotation spreadsheets (ZNH_annotations-T86-243.csv, ZNH_annotations-T86_244.csv, and ZNH_annotations-T86_245.csv), used to create [this AVAnnotate project](https://tanyaclement.github.io/znh-1939/) about Zora Neale Hurston across several audio recordings. This project includes 3 annotation spreadsheets because the author annotated 3 different audio events. 
