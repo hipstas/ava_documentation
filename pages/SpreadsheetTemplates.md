@@ -32,6 +32,9 @@ This Event spreadsheet reflects the two events included in an AVAnnotate project
 [Sample Event Spreadsheet - Zora Neale Hurston example](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q) <br>
 This Box folder includes all of the spreadsheets, including the Event spreadsheet (ZNH_events.csv), used to create [this AVAnnotate project](https://tanyaclement.github.io/znh-1939/) about Zora Neale Hurston across several audio recordings. This project includes three events (reflected in the Events spreadsheet) from the Florida Memory Project's archives about the Works Progress Administration. 
 
+[Sample Event Spreadsheet - Camille (1921) example](https://docs.google.com/spreadsheets/d/11oOHhd-wPZb7Kr3u5zWrX2ZhTQRn4EOPLuAOxhhKiyc/edit?gid=1408208239#gid=1408208239)
+This Event spreadsheet reflects the single video event included in an [AVAnnotate project](https://avannotate.github.io/camille/) about the 1921 film adaptation of "La Dame aux Camélias" (1848) by Alexander Dumas, fils.  
+
 ---
 # [Tag Spreadsheet Template](https://docs.google.com/spreadsheets/d/1LOuw5aiF4v00Ivx3S-ozPcGHzeZf3ovz/edit?usp=sharing&ouid=112492510360958259862&rtpof=true&sd=true)
 This template contains tags and tag categories used in a project. Tags are labels used in the interface to index, organize, and discover topics in the annotations. Categories can be used to organize the tags in groups. For instance, tags might contain the names of speakers featured on the recording(s), which could be organized under the category “speaker.” This would allow end users to easily find all annotations that relate to a given speaker or all speakers. 
@@ -50,6 +53,9 @@ This Tag spreadsheet reflects the tags and categories used across multiple audio
 
 [Sample Tag Spreadsheet - Zora Neale Hurston example](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q) <br>
 This Box folder includes all of the spreadsheets, including the Tag spreadsheet (ZNH_tags.csv), used to create [this AVAnnotate project](https://tanyaclement.github.io/znh-1939/) about Zora Neale Hurston across several audio recordings. This project includes 26 unique tags that fall into 4 categories (reflected in the Tag spreadsheet). 
+
+[Sample Tag Spreadsheet - Camille (1921) example](https://docs.google.com/spreadsheets/d/11oOHhd-wPZb7Kr3u5zWrX2ZhTQRn4EOPLuAOxhhKiyc/edit?gid=2092947940#gid=2092947940)
+This Tag spreadsheet includes the tags and categories used to organize annotations about [Camille (1921)](https://avannotate.github.io/camille/).  
 
 ---
 # [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true)
@@ -73,3 +79,8 @@ This Google Drive folder contains the Annotation spreadsheets ("OscarWildeAnnota
 
 [Sample Annotation Spreadsheet - Zora Neale Hurston example](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q) <br>
 This Box folder includes all of the spreadsheets, including the Annotation spreadsheets, used to create [this AVAnnotate project](https://tanyaclement.github.io/znh-1939/) about Zora Neale Hurston. This project includes 3 annotation spreadsheets because the author annotated 3 different audio events. 
+
+[Sample Annotation Spreadsheet - Camille (1921) example](https://docs.google.com/spreadsheets/d/11oOHhd-wPZb7Kr3u5zWrX2ZhTQRn4EOPLuAOxhhKiyc/edit?gid=0#gid=0)
+This Annotation spreadsheet includes the annotations for the single-event AVAnnotate project about [Camille (1921)](https://avannotate.github.io/camille/).  
+
+
