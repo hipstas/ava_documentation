@@ -22,7 +22,7 @@ This template organizes the events in a project and associates the AV files with
 **Column A:** Event Label (“Interview 1”) <br>
 **Column B:** Event Item Type (“Audio” or “Video”) <br>
 **Column C:** AV File Label (name for the file; create a name even if there is not an AV URL) <br>
-**Column D:** AV File URL (optional) <br>
+**Column D:** AV File URL <br>
 **Column E:** Event Citation (optional) <br>
 **Column F:** Event Description (optional) <br>
 
