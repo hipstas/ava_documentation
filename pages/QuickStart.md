@@ -1,7 +1,7 @@
 ---
-title: Quick Start: How to Use AVAnnotate
+title: Quick Start
 layout: home
-nav_order: 5
+nav_order: 6
 ---
 
 Quick start
