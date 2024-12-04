@@ -3,6 +3,7 @@ title: Spreadsheet Templates
 layout: home
 nav_order: 5
 ---
+[Spreadsheet Examples](#Examples)
 
 # Log into the [AVAnnotate application](https://avannotate.netlify.app) with your GitHub credentials
 This guide provides templates for uploading projects in bulk (as opposed to adding events, annotations, and tags manually within the application). Project-level templates should be uploaded first (see below for information about project-level vs. event-level components of AVAnnotate projects). AVAnnotate will take .CSV, .TSV, Excel, and .VTT files.
@@ -56,6 +57,7 @@ Annotations may overlap in time and will appear in sequence in the interface acc
 **Note:** 
 The “pipe” can be found on QWERTY keyboards to the right of the letter “P.”
 
+# Examples
 Sample Audio Spreadsheets - [Leslie Flint's Spiritualism]  <br> 
 These event, tag, and annotation spreadsheets represent two events included in an AVAnnotate project about Leslie Flint's direct voice mediumship. [Flint example spreadsheets](https://docs.google.com/spreadsheets/d/153aZGh905S1pK1a6eWW8GVCmEKDuMDJ9xsREEAuu7xE/edit?usp=sharing)
 
