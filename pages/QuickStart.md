@@ -3,7 +3,7 @@ title: Quick Start
 layout: home
 nav_order: 6
 ---
-# Quick Start: How to use AVAnnotate
+# Quick Start: How to Use AVAnnotate
 
 ## Step 1: Log into AVAnnotate with your GitHub credentials and create a new project
 
