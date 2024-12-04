@@ -29,10 +29,10 @@ This template organizes the events in a project and associates the AV files with
 Sample Audio Spreadsheets - [Leslie Flint's Spiritualism] [Flint example spreadsheets](https://docs.google.com/spreadsheets/d/153aZGh905S1pK1a6eWW8GVCmEKDuMDJ9xsREEAuu7xE/edit?usp=sharing) <br> 
 This Event spreadsheet reflects the two events included in an AVAnnotate project about Leslie Flint's direct voice mediumship. 
 
-[Sample Audio Spreadsheets - Zora Neale Hurston example](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q) <br>
-This Box folder includes all of the spreadsheets, including the Event spreadsheet (ZNH_events.csv), used to create [this AVAnnotate project](https://tanyaclement.github.io/znh-1939/) about Zora Neale Hurston across several audio recordings. This project includes three events (reflected in the Events spreadsheet) from the Florida Memory Project's archives about the Works Progress Administration. 
+Sample Audio Spreadsheets - [Zora Neale Hurston](https://tanyaclement.github.io/znh-1939/) [Hurston example spreadsheets](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q) <br>
+This Box folder includes all of the spreadsheets used to create a multi-event project including three recordings created by Zora Neale Hurston.
 
-Sample Vidoe Spreadsheets - [Camille (1921)](https://avannotate.github.io/camille/events/camille-1921/) [Camille example spreasheets](https://docs.google.com/spreadsheets/d/11oOHhd-wPZb7Kr3u5zWrX2ZhTQRn4EOPLuAOxhhKiyc/edit?gid=1408208239#gid=1408208239) <br>
+Sample Video Spreadsheets - [Camille (1921)](https://avannotate.github.io/camille/events/camille-1921/) [Camille example spreasheets](https://docs.google.com/spreadsheets/d/11oOHhd-wPZb7Kr3u5zWrX2ZhTQRn4EOPLuAOxhhKiyc/edit?gid=1408208239#gid=1408208239) <br>
 These spreadsheets represent a single video event about the 1921 film adaptation of "La Dame aux Camélias" (1848) by Alexandre Dumas, fils.  
 
 ---
