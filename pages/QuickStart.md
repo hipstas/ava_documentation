@@ -7,13 +7,13 @@ nav_order: 6
 
 ## Step 1: Log into AVAnnotate with your GitHub credentials and create a new project
 
-Navigate to the (AVAnnotate application)[https://avannotate.netlify.app/] and sign in with your GitHub credentials. If you don’t have an account already, go to (GitHub)[https://github.com/join] and create one by providing a username, email address, and password.
+Navigate to the [AVAnnotate application](https://avannotate.netlify.app/) and sign in with your GitHub credentials. If you don’t have an account already, go to [GitHub](https://github.com/join) and create one by providing a username, email address, and password.
 
 Select “Add,” and input information about your new project, including the project title, description, language, a URL “slug,” and collaborators.
 
 ## Step 2: Add an Event
 
-An “Event” in AVAnnotate can comprise single or multiple AV files and single or multiple sets of annotations. AVAnnotate will create or ingest a (IIIF manifest)[https://iiif.io/guides/using_iiif_resources/] for each event. Event pages can be auto-generated or created by the user.
+An “Event” in AVAnnotate can comprise single or multiple AV files and single or multiple sets of annotations. AVAnnotate will create or ingest a [IIIF manifest](https://iiif.io/guides/using_iiif_resources/) for each event. Event pages can be auto-generated or created by the user.
 
 Select “Add,” and input information about your new event, including the event label; item type (audio or video); AV label, URL, and duration; description; and citation.
 
