@@ -1,6 +1,7 @@
 ---
 title: Spreadsheet Templates
-parent: Quick Start: How to Use AVAnnotate
+layout: home
+parent: Quick Start
 nav_order: 2
 ---
 
