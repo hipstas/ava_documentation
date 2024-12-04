@@ -1,7 +1,7 @@
----
+--
 title: Spreadsheet Templates
 parent: Quick Start: How to Use AVAnnotate
-nav_order: 5
+nav_order: 2
 ---
 
 [Spreadsheet Examples](#Examples)
