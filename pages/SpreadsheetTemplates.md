@@ -61,7 +61,7 @@ The “pipe” can be found on QWERTY keyboards to the right of the letter “P.
 
 # Examples
 Sample Audio Spreadsheets - [Leslie Flint's Spiritualism]  <br> 
-These event, tag, and annotation spreadsheets represent two events included in an AVAnnotate project about Leslie Flint's direct voice mediumship. [Flint example spreadsheets](https://docs.google.com/spreadsheets/d/153aZGh905S1pK1a6eWW8GVCmEKDuMDJ9xsREEAuu7xE/edit?usp=sharing)
+These event, tag, and annotation spreadsheets represent two events included in an AVAnnotate project about Leslie Flint's direct voice mediumship. [Flint example spreadsheets](https://drive.google.com/drive/u/0/folders/1CzTX-WOQbCxYW3YefjOs4bThszHDr-oU)
 
 Sample Audio Spreadsheets - [Zora Neale Hurston](https://tanyaclement.github.io/znh-1939/) <br>
 These event, tag, and annotation spreadsheets represent a multi-event project including three recordings created by Zora Neale Hurston. [Hurston example spreadsheets](https://utexas.app.box.com/s/ce1cmsvs1ygs6jv1jr2wrfxryc7ig87q)
